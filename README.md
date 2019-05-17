@@ -16,7 +16,7 @@ https://dry-fortress-87482.herokuapp.com/
 
 ***
 
-## Technologies
+## Built With
 
 * Node.js 
 * Express.js
@@ -26,3 +26,9 @@ https://dry-fortress-87482.herokuapp.com/
 * React
 * Passport.js and Bcrypt
 * MVC Design Pattern
+
+## Authors 
+Kelsey Tobin
+Armi Lawrence
+Shelby Sinsheimer
+
