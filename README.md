@@ -12,9 +12,19 @@ https://dry-fortress-87482.herokuapp.com/
 
 * Users can search for recipe, restaurant, movie/tv, and outdoor hike related information
 
-* Users are able to delete their profiles
+* Users are able to delete their saved date ideas and user profiles
 
 ***
+
+## Application Preview
+### Login Portal
+![Login](images/login.PNG)
+
+### Home Page - search for date ideas by category and save your favorites
+![Home](images/home.PNG)
+
+### User Profile - view your saved dates, delete saved dates, or delete your profile altogether
+![UserProfile](images/userpage.PNG)
 
 ## Built With
 
