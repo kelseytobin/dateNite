@@ -28,7 +28,7 @@ https://dry-fortress-87482.herokuapp.com/
 * MVC Design Pattern
 
 ## Authors 
-Kelsey Tobin
-Armi Lawrence
-Shelby Sinsheimer
+* Kelsey Tobin
+* Armi Lawrence
+* Shelby Sinsheimer
 
